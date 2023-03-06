@@ -1,0 +1,13 @@
+name: ps6-WebApp
+title: ps6-WebApp
+username:
+account: kylao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8485218
+bundleId: 6919827
+url: https://kylao.shinyapps.io/ps6-WebApp/
+when: 1678079341.42055
+lastSyncTime: 1678079341.42056
+asMultiple: FALSE
+asStatic: FALSE
